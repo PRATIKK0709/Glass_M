@@ -19,6 +19,11 @@ A minimalist solution to display Discord DMs as an overlay while streaming, help
 - **Custom Styling**: Modern, sleek design with timestamp tracking
 - **Local Network Communication**: Secure HTTP communication between bot and app
 
+
+## 🎥 Video Preview
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-CHMBG14lEg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## 🛠️ Technologies Used
 
 - **Discord.js Selfbot v13** ([repo](https://github.com/aiko-chan-ai/discord.js-selfbot-v13))
