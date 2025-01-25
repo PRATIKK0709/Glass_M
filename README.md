@@ -97,7 +97,7 @@ The transparent overlay will appear automatically. When your friend sends DMs:
 
 ### Notice Regarding Discord Terms of Service
 
-This project uses a selfbot implementation through `discord.js-selfbot-v13`, which technically violates Discord's Terms of Service. However, this project is designed for:
+This project uses a selfbot implementation through `discord.js-selfbot-v13`, which technically violates Discord's Terms of Service as using self bot is against discord tos. However, this project is designed for:
 
 - **Personal Use**: Single-user message display
 - **Non-Intrusive**: Read-only access to specific DMs
