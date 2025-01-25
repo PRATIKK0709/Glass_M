@@ -22,7 +22,7 @@ A minimalist solution to display Discord DMs as an overlay while streaming, help
 
 ## 🎥 Video Preview
 
-https://www.youtube.com/embed/-CHMBG14lEg
+[![YouTube](http://i.ytimg.com/vi/-CHMBG14lEg/hqdefault.jpg)](https://www.youtube.com/watch?v=-CHMBG14lEg)
 
 ## 🛠️ Technologies Used
 
